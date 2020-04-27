@@ -1,0 +1,23 @@
+{
+  "name": "ts_study",
+  "version": "1.0.0",
+  "description": "",
+  "main": "1.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/WT-SML/ts_study.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/WT-SML/ts_study/issues"
+  },
+  "homepage": "https://github.com/WT-SML/ts_study#readme",
+  "dependencies": {
+    "@types/node": "^13.13.2"
+  }
+}
